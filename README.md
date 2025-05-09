@@ -27,6 +27,3 @@ A colorful memory-based game built with HTML, CSS, and JavaScript. Click on the 
 ## 🖼️ Screenshots
 
 ![Screenshot 2025-05-08 211216](https://github.com/user-attachments/assets/b44f1c78-4525-4b70-9c4a-1e2946a14bde)
-
-## 📂 Folder Structure
-
